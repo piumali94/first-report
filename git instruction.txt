@@ -1,0 +1,32 @@
+mulinma html file ekk folder ekakata dala rightclick karla git eke open krla 
+git init 
+ghnna ilagata 
+git status
+
+
+git add . kyla ghuvoth all html file tike git vlta add venva
+ nthnm git add space filename.html
+
+
+then git commit
+ ilagata git config ghl
+ilagata ena user email eka eke ena vdyta ghla enter karala 
+user name (git hub eke nama)eka ghla enter dila
+git status ghala git commit ghnna ethkota venama window ekk open venva 
+ilagata nknma i ghnna ghala comment eka type krnna 
+ghla esc button eka obala 
+:wq type karnna
+
+ilagata git log ghuvama a type krpu eka enva
+
+api aai mkk hri html eke file eka changes karama 
+
+git status gahala enva modified kyla 
+ilagata git add spece . ghanava
+
+ilagata status ekk ghla 
+bluvama modifie vechcha eka pennava
+ilagta git commit ekk ghala karapu change eka type krnna ilagata git log ekk ghuvama changes enva
+git diff ekka  3b567b82ae344188397a412c9e6c81dd89f082a4 space tyala  d41e7ada328304d78846f1587e076d3024a701b5
+eka ghala enter karama pennava changes + mark ekakin
+ 
