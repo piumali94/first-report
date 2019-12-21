@@ -28,5 +28,47 @@ ilagata status ekk ghla
 bluvama modifie vechcha eka pennava
 ilagta git commit ekk ghala karapu change eka type krnna ilagata git log ekk ghuvama changes enva
 git diff ekka  3b567b82ae344188397a412c9e6c81dd89f082a4 space tyala  d41e7ada328304d78846f1587e076d3024a701b5
-eka ghala enter karama pennava changes + mark ekakin
+eka ghala enter karama pennava changes + mark ekakin 
+
+
+
+
+********
+
+
+new repository danne 
+github eke ape profile ekata ynna ghn dakunu atha patte + mark eke new repository click krnna 
+name eka dila create mkkda eka denna ilagata ena web eke **** or push an existing 
+kyna eke mul eka copy krn ghn shell eke paste krnna 
+ilagata enter karala 
+aaaai anith eka paste krla enter krnna
+ilagata
+window ekk enva email eka password eka ghnna eka ghna log venna 
+ilagata ara web https://github.com/piumali94/first-report refresh karama enva com******
+
+
+
+****** aaai api ape html file eka vens kam karnva nm oilagata aaai mul step tikama danna
+git status
+git add space .
+git status
+git commit ghn status ekk dala
+git log denna
+ilagta 
+repositor vala comment eka vtilada kyla bllne 
+git push ekk dila
  
+
+
+
+*****************
+branch eka blnne git branch
+
+new branch ekk hdnne ** git checkout -b name ***** kyl DALA
+
+
+git ekata api create krpu branch eka add krnne 
+
+ git push origin submit_form     submit_from kynne name eka branch eke
+
+
